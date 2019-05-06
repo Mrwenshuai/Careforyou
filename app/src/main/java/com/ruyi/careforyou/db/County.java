@@ -47,4 +47,8 @@ public class County extends DataSupportException {
     public void setCityId(int cityId) {
         this.cityId = cityId;
     }
+
+    public void save(){
+
+    }
 }

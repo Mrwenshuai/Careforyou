@@ -47,4 +47,8 @@ public class City extends DataSupportException {
     public void setProvinceId(int provinceId) {
         this.provinceId = provinceId;
     }
+
+    public  void save(){
+
+    }
 }

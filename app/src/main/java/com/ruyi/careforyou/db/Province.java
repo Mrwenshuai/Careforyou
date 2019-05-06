@@ -44,4 +44,8 @@ public class Province extends DataSupportException {
     public void setProvinceCode(int provinceCode) {
         this.provinceCode = provinceCode;
     }
+
+    public void save(){
+
+    }
 }
